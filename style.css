@@ -282,3 +282,19 @@ opacity: 1;
     margin-top: -6px;
 }
 
+@media(max-width:667px){
+    .box{
+    display: grid;
+    grid-template-coloum: repeat(2fr);
+    }      
+}
+
+
+
+
+
+
+
+
+
+
